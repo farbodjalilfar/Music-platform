@@ -118,5 +118,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Name**: Farbod Jalilfar  
-- **Student ID**: 501152985
+ Farbod Jalilfar  
+
